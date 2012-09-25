@@ -1,0 +1,42 @@
+/* css do minimalistycznej strony domowej z jQuery*/
+/* kolor dla linków itp: #CD5C5C; /*indian red*/
+
+body {font-size : 13pt; line-height : 16pt}
+/*font-size : 12pt; dla czcionek innych niż "athena"*/
+
+@font-face {font-family : Essays; src: url('Essays1743.ttf')}
+
+@font-face {font-family: Essays-bold; src: url('Essays1743-Bold.ttf')}
+
+@font-face {font-family : athena; src: url('athena_u.TTF')}
+
+h1 {font-family : Essays; font-size : 38px; line-height : 38px; margin : 20px auto 40px auto}
+
+#header a {text-decoration : none; color: #000000}
+
+#header a:hover {text-decoration : none}
+
+h2 {font-family : Essays; font-size : 20px; line-height : 26px; margin : 0}
+
+#container {width : 450px; margin : 0 auto auto auto; padding : 50px}
+/*width : 400px;*/
+
+#container p {font-family : athena}
+
+ul {list-style-type : none; margin : 0; padding : 0}
+
+ul#lista li {margin : 20px auto 20px auto}
+
+ul#lista li p {text-align : justify; display : none}
+
+li.highlight {background: #000; color: #fff}
+
+#lista a {text-decoration : none; color: #CD5C5C}
+
+#lista a:hover {text-decoration : none; color: #000000}
+
+ul#lista li .pdf a {font-family : Essays-bold; color : #CD5C5C; font-size: 12pt}
+
+li .ast {font-family : Essays; font-size : 12pt}
+
+li .subtitle {font-family: Essays}
