@@ -1,0 +1,28 @@
+;; RefTeX parse info file
+;; File: /Users/karolinakrzyzanowska/Dropbox/Current/CV/cv.tex
+;; User: karolinakrzyzanowska (Karolina Krzyżanowska)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/karolinakrzyzanowska/Dropbox/Current/CV/")
+
+(label-numbers)
+
+(bof "/Users/karolinakrzyzanowska/Dropbox/Current/CV/cv.tex")
+
+(toc "toc" "    * #1" "/Users/karolinakrzyzanowska/Dropbox/Current/CV/cv.tex" nil 2 "*" "\\section*{#1}" 888)
+
+(toc "toc" "      * #1" "/Users/karolinakrzyzanowska/Dropbox/Current/CV/cv.tex" nil 3 "*" "\\subsection*{#1}" 962)
+
+(eof "/Users/karolinakrzyzanowska/Dropbox/Current/CV/cv.tex")
+))
+
