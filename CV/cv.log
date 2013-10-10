@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.1.15)  1 OCT 2013 17:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.1.15)  10 OCT 2013 16:48
 entering extended mode
  %&-line parsing enabled.
 **cv.tex
@@ -349,18 +349,18 @@ File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 (/usr/local/texlive/2009/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
 )
-Overfull \hbox (1.67967pt too wide) in paragraph at lines 216--220
+Overfull \hbox (1.67967pt too wide) in paragraph at lines 217--221
 []\T1/cmr/m/it/10.95 Rethinking Gib-bard's Ri-ver-bo-at Ar-gu-ment \T1/cmr/m/n/
 10.95 at the 8th Bar-ce-lo-na Work-shop on Con-di-tio-nals ([][]BW8[][]),
  []
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 328.
+(Font)              <10.95> on input line 329.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 328.
+(Font)              <8> on input line 329.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 328.
+(Font)              <6> on input line 329.
  [3] [4] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
  6743 strings out of 493848
@@ -381,7 +381,7 @@ bx1440.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfbx
 .pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfti1095.p
 fb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb
 >
-Output written on cv.pdf (4 pages, 170804 bytes).
+Output written on cv.pdf (4 pages, 170811 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
