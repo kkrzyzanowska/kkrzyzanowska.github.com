@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.1.15)  10 OCT 2013 16:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.1.15)  22 OCT 2013 12:42
 entering extended mode
  %&-line parsing enabled.
 **cv.tex
@@ -354,36 +354,35 @@ Overfull \hbox (1.67967pt too wide) in paragraph at lines 217--221
 10.95 at the 8th Bar-ce-lo-na Work-shop on Con-di-tio-nals ([][]BW8[][]),
  []
 
-[2]
+[2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 329.
+(Font)              <10.95> on input line 332.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 329.
+(Font)              <8> on input line 332.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 329.
- [3] [4] (./cv.aux) ) 
+(Font)              <6> on input line 332.
+ [4] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
  6743 strings out of 493848
  93864 string characters out of 3149207
- 168710 words of memory out of 3000000
+ 169710 words of memory out of 3000000
  9913 multiletter control sequences out of 15000+200000
  13065 words of font info for 33 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  38i,5n,35p,325b,649s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/cm-sup
-er/cm-super-t1.enc}</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sf
-bx1440.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfbx
-1728.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfrm08
-00.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfrm1095
-.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfti1095.p
-fb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb
->
-Output written on cv.pdf (4 pages, 170811 bytes).
+{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/cm-super/c
+m-super-t1.enc}</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfbx14
+40.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfbx1728
+.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfrm0800.p
+fb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb
+></usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><
+/usr/local/texlive/2009/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on cv.pdf (4 pages, 172020 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
