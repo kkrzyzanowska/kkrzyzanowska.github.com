@@ -47,7 +47,7 @@
 			"file": "CV/cv.tex",
 			"settings":
 			{
-				"buffer_size": 12804,
+				"buffer_size": 13212,
 				"line_ending": "Unix"
 			}
 		}
@@ -333,15 +333,15 @@
 					"file": "CV/cv.tex",
 					"settings":
 					{
-						"buffer_size": 12804,
+						"buffer_size": 13212,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1147,
+								1147
 							]
 						],
 						"settings":
@@ -351,7 +351,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 607.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
