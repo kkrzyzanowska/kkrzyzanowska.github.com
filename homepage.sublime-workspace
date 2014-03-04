@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"enumerate"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"ta",
+				"table	Table"
+			],
+			[
+				"t",
+				"tabular"
+			],
+			[
+				"ite",
+				"itemize"
+			],
+			[
+				"q",
+				"quote"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CV/cv.tex",
+			"settings":
+			{
+				"buffer_size": 12804,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"n",
+				"Tasks: New"
+			],
+			[
+				"Tas",
+				"Tasks: New document"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"ta",
+				"Tasks: New"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: D",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 371.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/arguments_inLayout.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/DFG proposal.TODO",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Learning conditionals - DFG proposal/learning.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Project output/ReportFirstFundingPeriod/Report.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/gantt-final/forgantt3.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Project/CheckCoherenceCalculations/Douven-CA_4.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/ReportFirstFundingPeriod/Report.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Project/CheckCoherenceCalculations/Douven-CA.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/arguments.tex",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/CkC/Bezzazi-NR.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Project/CheckCoherenceCalculations/Douven-ANT.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/CheckCoherenceCalculations",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/layout-od Piotrka/argumentforms.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/CkC/Bezzazi-DR.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/CkC/Freund_etal-RatMon.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/CkC/Freund_etal-DisjRat.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/CkC/Freund_etal-WTrans.ckc",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/gantt-final/gantt.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Arguments/learning.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/gantt-final/forgantt2.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/gantt-final/forgantt.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/gantt-final/forgantt2-1.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/layout-od Piotrka/forgantt.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/layout-od Piotrka/pgfgantt.sty",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/pst-gantt/doc/pst-gantt-doc.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Inferential conditional-DFG proposal/inferential.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/layout/forgantt.tex",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/forgantt.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/DFG.sublime-project",
+		"/Users/karolinakrzyzanowska/Dropbox/Współdzielone/ABCProject2013/abc-proposal.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/DFG project/Project output/output.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Munich/Learning conditionals - proposal/learning.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/kkrzyzanowska.github.com/index.html",
+		"/Users/karolinakrzyzanowska/Dropbox/Ebooki_i_artykuly/Moje_prace/Published/2012-Synthese/belief_ascription-do poprawki.tex",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Deliberation/deliberation.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/doktorat-config.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Learning conditionals - proposal/learning.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/kkrzyzanowska.github.com/CV/cv.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Dokumenty/Aplikacje/To Munich/letter/munich-letter.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Dokumenty/Aplikacje/Amsterdam Brain & Cognition/proposal/abc-proposal.tex",
+		"/Users/karolinakrzyzanowska/Desktop/Uporządkować/Climbing/recommendation letter/letter.tex",
+		"/Users/karolinakrzyzanowska/Desktop/Climbing/recommendation letter/letter.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Dokumenty/Archiwalne/Studia/Letter_of_evaluation-dla_Richarda/letter.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Bochum/referat.TODO",
+		"/Users/karolinakrzyzanowska/Dropbox/Dokumenty/Aplikacje/Amsterdam Brain & Cognition/proposal/abc-summary.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Abstrakty/abstrakty.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/JLLI revised/Final JLLI version/jlli-evidentiality.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/introduction.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Programming/R/R-notatki.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/postanowienia.TODO",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Gibbard improved/gibbard-improved.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/R/R-notatki.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/ch-conditionals.tex",
+		"/Users/karolinakrzyzanowska/Desktop/toggle-color-scheme.py",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/JLLI revised/submitted/evidentiality-final.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/JLLI revised/evidentiality-revised-22.08.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/JLLI revised/evidentiality-revised-16.08.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/JLLI revised/evidentiality-revised-16.08.bbl",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/karolinakrzyzanowska/Downloads/evidentiality-revised-13.08.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Notatki/kurs.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/doktorat.sublime-project",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/doktorat.TODO",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Org/Notatki/notatki.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/pejperki.TODO",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/doktorat.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/FrontBackmatter/Bibliography.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/doktorat.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/JLLI paper/evidentiality-revised-13.08.tex",
+		"/Users/karolinakrzyzanowska/Library/Application Support/Sublime Text 2/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/ch-gibbard.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/testowanie.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/ch-deliberation.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/ch-evidentials.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/ch-beliefascription.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/ch-ambiguity.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/appendix2.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/Chapters/appendix1.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/JLLI paper/Final JLLI version/jlli-evidentiality.tex",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Org/tasks.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/evidentiality.org",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/JLLI paper/evidentiality-revised.tex",
+		"/Users/karolinakrzyzanowska/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/keith-jarrett-concert-rotterdam.md",
+		"/Users/karolinakrzyzanowska/Downloads/keith-jarrett-concert-rotterdam.md",
+		"/Users/karolinakrzyzanowska/Dropbox/Current/Evidential markers/JoLLI/JoLLI-notatki/evid-discussion.pdf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"well",
+			"OR",
+			"well",
+			"assume",
+			"of interest",
+			"nonin",
+			"dvi",
+			"pdf",
+			"dvi",
+			"drawing",
+			"experiment",
+			"citet",
+			"citep",
+			"ant",
+			" \n",
+			"clear",
+			"discou",
+			"disc",
+			"discou",
+			"learn",
+			"goya",
+			"dyed",
+			"plethora",
+			"spring",
+			"fledg",
+			"jeż",
+			"jeś",
+			"if-",
+			"color",
+			"sequences",
+			"sequen",
+			"materials",
+			"special",
+			"specia",
+			"nat",
+			"karenin",
+			"bo",
+			"\"",
+			"section",
+			"krzyz",
+			".eps",
+			"probab",
+			"url",
+			"defi",
+			"huit",
+			"zou moeten",
+			"zou moeten,",
+			"eps",
+			"append",
+			"appe",
+			"correct",
+			"systemat",
+			"zou",
+			"strategie",
+			"should",
+			"susan",
+			"evident"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 11449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CV/cv.tex",
+					"settings":
+					{
+						"buffer_size": 12804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 107.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/karolinakrzyzanowska/Dropbox/Current/Doktorat/doktorat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}
