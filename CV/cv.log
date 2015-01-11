@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.14)  9 DEC 2014 16:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.14)  11 JAN 2015 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -376,7 +376,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [2]
+)
+Overfull \hbox (2.20583pt too wide) in paragraph at lines 204--205
+[]\T1/cmr/m/n/10.95 An expe-ri-men-tal stu-dy on ``ro-und num-bers'', ap-pro-xi
+-ma-te num-ber sen-se and se-man-tics/pragmatics
+ []
+
+[2]
 Overfull \hbox (1.67967pt too wide) in paragraph at lines 232--236
 []\T1/cmr/m/it/10.95 Rethinking Gib-bard's Ri-ver-bo-at Ar-gu-ment \T1/cmr/m/n/
 10.95 at the 8th Bar-ce-lo-na Work-shop on Con-di-tio-nals ([][]BW8[][]),
@@ -417,7 +423,7 @@ l/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on cv.pdf (4 pages, 158572 bytes).
+Output written on cv.pdf (4 pages, 158595 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams
