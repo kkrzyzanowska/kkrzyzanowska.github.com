@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+<title>Karolina Krzyżanowska's Homepage</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<!--<meta name="language" content="en" />-->
+<meta name="description" content="Karolina Krzyżanowska's homepage"/>
+<meta name="author" content="Karolina Krzyżanowska"/>
+<meta name="keywords" content="Karolina, Krzyżanowska, philosophy,
+filozofia, conditionals"/>
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<!--kod, który dodaje jQuery do dokumentu: -->
+<script type="text/javascript" src="jquery.js"></script>
+
+<!--tu mogę wklejać mój kod JavaScript: -->
+<script type="text/javascript">
+$(document).ready(
+function()
+{
+$("ul#lista li h2").click( function() {
+$(this).next("p").show("fast");
+$("ul#lista li h2").not(this).next("p:visible").hide("fast"); }).css('cursor',
+'pointer');
+}); </script>
+ 
+<!--zamiast 'show()' można dać slideDown(), za 'hide()' dajemy 'slideUp()' - nie obsługują przezroczystości!-->
+
+<!--kod google analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35019941-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div id="container">  
+<div id="header">
+<h1><a href="index.html">Conditionals <br /> and Psychology <br />of Reasoning </a></h1>
+</div>
+
+
+ <ul id="lista">
+
+<li><h2>About</h2>
+Conditional sentences belong to the most troublesome linguistic phenomena. Despite the fact that a huge amount of work devoted solely to conditionals has been published in the course of the last couple of decades, there are still many open questions regarding their semantics and pragmatics. Recently, many researches began to realise that combining formal and empirical methods allows us to tackle old issues in an utterly different way, prompting new developments. In this class, we will have a closer look at how various philosophical accounts of conditionals influenced psychological research on reasoning, and how, in return, empirically obtained data can inform philosophical theories.
+
+
+<h2>Grading and deadlines</h2>
+
+Homeworks: 20% <br />
+Final Paper Outline: 30\%  (deadline: Monday, June 15)<br />
+Final Paper: 50% (deadline: Friday, July 31)<br />
+<br />
+
+<span class="pdf">Homeworks:</span> One day before each class students are expected to submit two questions related to the assigned reading. <br />
+
+<br />
+<span class="pdf">Final paper:</span> Students will write a paper on the topic of their choice, but related to the content of the class. The paper should be interdisciplinary, that is, it should be based on at least one paper in psychology and at least one paper in philosophy. The choice of the topic and the bibliography should be discussed with the instructor before submission of the outline.
+<br />
+
+<h2>Next class</h2>
+
+<span class="ast">21.04.2015</span> Material conditional and the Wason selection task (Wason 1968; Evans and Over 2004, ch. 5). <br />
+<br />
+
+<span class="ast">28.04.2015</span> Logics in the Wason selection task (Stenning and van Lambalgen 2004 or ch. 3 from Stenning and van Lambalgen 2008) <br />
+<br />
+
+
+</li> 
+</ul>
+
+
+</div>
+</body>
+</html>
