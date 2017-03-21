@@ -56,7 +56,8 @@ li.highlight {background: #000; color: #fff}
 
 /*ul#lista li .pdf a {font-family : Essays-bold, Essays; color : #CD5C5C; font-size: 12pt}*/
 
-.pdf a {font-family : Essays-bold, Essays; color : #CD5C5C; font-size: 12pt}
+.pdf {font-family : Essays-bold, Essays; color : #CD5C5C; font-size: 12pt}
+/*.pdf a {font-family : Essays-bold, Essays; color : #CD5C5C; font-size: 12pt}*/
 
 li .ast {font-family : Essays; font-size : 12pt}
 
